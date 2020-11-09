@@ -29,7 +29,6 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/FFmpeg/FFmpeg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -38,29 +37,9 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js         4 hrs 47 mins   ███████████▒░░░░░░░░░░░░░   45.61 % 
-TeX            3 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.59 % 
-OpenEdge ABL   1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-C++            45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Markdown       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  5,874 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 407 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThatOneTallKid&show_icons=true&theme=gotham" alt="adi" />
 
 
