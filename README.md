@@ -47,5 +47,5 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ThatOneTallKid&show_icons=true&theme=gotham" alt="adi" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneTallKid" alt="adi" />
+
 
