@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e47m3ts2gcknxj0kvjawn9zm6fnrmy5wx58j8jg7hyn&rid=giphy.gif" width="500" height="320" />
 <a href="https://twitter.com/AdityaD14206128?s=08">
   <img align="left" alt="Aditya Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
