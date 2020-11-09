@@ -1,11 +1,12 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=ThatOneTallKid.ThatOneTallKid)
 <a href="https://twitter.com/AdityaD14206128?s=08">
   <img align="left" alt="Aditya Das | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-das-619a5019b/">
   <img align="left" alt="Aditya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
- ![](https://visitor-badge.glitch.me/badge?page_id=ThatOneTallKid.ThatOneTallKid)
+
 <br />
 
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e47m3ts2gcknxj0kvjawn9zm6fnrmy5wx58j8jg7hyn&rid=giphy.gif" width="500" height="320" />
