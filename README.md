@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/aditya-das-619a5019b/">
   <img align="left" alt="Aditya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=ThatOneTallKid.ThatOneTallKid)
 <img align="center" alt="GIF" src="https://media3.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e47m3ts2gcknxj0kvjawn9zm6fnrmy5wx58j8jg7hyn&rid=giphy.gif" width="500" height="320" />
 <br />
@@ -43,4 +43,5 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThatOneTallKid&show_icons=true&theme=gotham" alt="adi" />
 
-
+**Current Status**
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47m3ts2gcknxj0kvjawn9zm6fnrmy5wx58j8jg7hyn&rid=200w.webp" width="500" height="320" />
