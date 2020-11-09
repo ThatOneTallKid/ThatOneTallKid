@@ -15,7 +15,8 @@
 Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am pursuing an undergraduate degree in computer science from Kalinga Institute of Industrial Technology. I love programming in an aesthetic environment and coffee and my laptop are what I need to survive. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <br />
+  <br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
