@@ -24,7 +24,7 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 - 🌱 I’m currently learning to make impactful software; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AdityaD14206128](https://twitter.com/AdityaD14206128?s=08);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume](https://drive.google.com/file/d/1K26pSNCeSZh_CVcv4R2ePYy3N4kuk9f3/view?usp=sharing)
 
 **Languages and Tools:**  
 
