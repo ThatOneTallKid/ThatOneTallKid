@@ -21,10 +21,10 @@ Hi, I'm [Aditya Das], a Software Developer 🚀 from India, currently, I am purs
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning to make impactful software; 
+- 🌱 I’m currently learning Golang and MongoDB; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AdityaD14206128](https://twitter.com/AdityaD14206128?s=08);
-- 📝[Resume](https://drive.google.com/file/d/1K26pSNCeSZh_CVcv4R2ePYy3N4kuk9f3/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/18GBxmlSgelz_Tqsw_i1VAW5immBDjxiw/view?usp=sharing)
 
 **Languages and Tools:**  
 
